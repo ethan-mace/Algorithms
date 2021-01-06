@@ -1,1 +1,1 @@
-Combine and sort arrays using JavaScript
+Combine and sort arrays (ascending) using JavaScript

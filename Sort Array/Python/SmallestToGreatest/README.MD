@@ -1,1 +1,1 @@
-This algorithm sorts an array of numbers from smallest to greatest
+This algorithm sorts an array of numbers (ascending)

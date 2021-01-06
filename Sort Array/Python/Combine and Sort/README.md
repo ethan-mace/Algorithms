@@ -1,1 +1,1 @@
-Combine and sort arrays using Python
+Combine and sort arrays (ascending) using Python
