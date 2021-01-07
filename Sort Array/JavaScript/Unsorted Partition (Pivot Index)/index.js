@@ -1,4 +1,4 @@
-console.log(partition([7,9,1,6,2,10,8,4,3],3))
+console.log(partition([7,9,18,6,1,23,2,10,8,4,3],3))
 function partition(arr, pivot){
     var left = []; var right = [];    
     for(i = 0; i < arr.length; i++){
